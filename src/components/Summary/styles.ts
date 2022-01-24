@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
     display: flex;
     justify-content: space-between;
-    margin-top: -10rem;
+    margin-top: -8rem;
 
 
     div {
